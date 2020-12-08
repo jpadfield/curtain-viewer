@@ -27,7 +27,7 @@
             ]
         },
         {
-            "@id": "https://leidenstage.wpengine.com/iiif/presentation/v2/2120/manifest/",
+            "@id": "https://research.ng-london.org.uk/iiif-exp/manifests/bellini-petermartyr",
             "@type": "sc:Manifest",
             "label": "Musical Company",
             "service": [
@@ -58,9 +58,9 @@
             "label": "Test Caser",
             "service": [
                 {
-                    "@context": "http://arkyves.org/help/ArkyvesIntro2.0.pdf",
-                    "@id": "http://4fe22a16-9b99-4458-6bdf-22bb19fdfe44",
-                    "label": "IconClass Terms",
+                    "@context": "http://www.nationalgallery.org.uk/paintings/research/a-dominican-with-the-attributes-of-saint-peter-martyr",
+                    "@id": "http://a-dominican-with-the-attributes-of-saint-peter-martyr",
+                    "label": "National Gallery  Example",
                     "terms": ""
                 }
             ]
